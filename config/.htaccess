@@ -1,0 +1,2 @@
+# Deny web access (Apache)
+Require all denied
